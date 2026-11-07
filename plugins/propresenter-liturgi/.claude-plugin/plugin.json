@@ -1,0 +1,9 @@
+{
+  "name": "propresenter-liturgi",
+  "version": "1.0.0",
+  "description": "Ubah PDF liturgi Minggu GBKP menjadi item Library (lagu KEE dengan arrangement, bacaan, teks liturgi) dan playlist ProPresenter, memakai ulang item yang sudah ada.",
+  "author": {
+    "name": "Ray Hawkins Kaban"
+  },
+  "keywords": ["propresenter", "liturgi", "gbkp", "gereja", "playlist"]
+}
